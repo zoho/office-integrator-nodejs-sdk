@@ -1,7 +1,7 @@
 # Zoho Office Integrator NodeJS SDK
 
-[![NPM version](https://img.shields.io/npm/v/zoi-nodejs-sdk.svg)](https://www.npmjs.com/package/zoi-nodejs-sdk)
-[![NPM downloads](https://img.shields.io/npm/dm/zoi-nodejs-sdk.svg)](https://www.npmjs.com/package/zoi-nodejs-sdk)
+[![NPM version](https://img.shields.io/npm/v/@zoho-corp/office-integrator-sdk.svg)](https://www.npmjs.com/package/@zoho-corp/office-integrator-sdk)
+[![NPM downloads](https://img.shields.io/npm/dm/@zoho-corp/office-integrator-sdk.svg)](https://www.npmjs.com/package/@zoho-corp/office-integrator-sdk)
 
 ## Table Of Contents
 
