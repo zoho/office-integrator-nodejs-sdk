@@ -1,0 +1,42 @@
+{
+    "name": "@zoho-corp/office-integrator-sdk",
+    "title": "Zoho Office Integrator NodeJS SDK",
+    "description": "NodeJS SDK to integrate zoho office suite editors in to web application.",
+    "version": "1.0.0",
+    "homepage": "https://www.zoho.com/officeplatform/integrator",
+    "author": {
+        "name": "Team - Zoho Office Integrator",
+        "email": "support@zohoofficeintegrator.com"
+    },
+    "main": "index.js",
+    "type": "module",
+    "maintainers": [
+        {
+            "name": "Support - Zoho Office Integrator",
+            "email": "support@zohoofficeintegrator.com",
+            "url": "https://www.zoho.com/officeplatform/integrator/contact-support.html"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zoho/office-integrator-nodejs-sdk.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zoho/office-integrator-nodejs-sdk/issues"
+    },
+    "license": "Apache-2.0",
+    "dependencies": {
+        "form-data": "^3.0.0",
+        "got": "^11.2.0",
+        "mysql2": "^3.9.1",
+        "tunnel": "0.0.6",
+        "winston": "^3.2.1", 
+        "date": "^1.0.2",
+        "string-format": "^2.0.0",
+        "moment-timezone": "0.5.43",
+        "utils": "^0.3.1"
+    },
+    "keywords": [ 
+        "zoho", "office integrator", "office suite editors", "zoho writer", "zoho sheet", "zoho show"
+    ]
+}
